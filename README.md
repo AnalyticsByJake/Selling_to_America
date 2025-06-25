@@ -57,13 +57,13 @@ The dataset is available in its cleaned as well as original form.
 The file online_us_sales_dataset_cleaned.xlsx is available for download and includes not only the analytics but also the revised dataset. Along with this, one can view the original .csv file that was used as the source. Throughout this project, I employed Excel for all cleaning, analytics and visualizations.
 
 <p align="center">
-  <img src="images/image_3_data_at_glance.jpg" width=350/>
+  <img src="images/image_3_data_at_glance.jpg" width=800/>
 </p>
 
 While much of the data was already in place in terms of infrastructure, it was nonetheless necessary to make certain adjustments, refinements and modifications. To accomplish this, a variety of Excel functions were employed to make sure the data was standardized, accurate and usable. For instance, the discount percentage column had the number of decimal places reduced, dates were standardized, and currency columns reformatted to properly reflect monetary values. Along with this, I created a column to put customers into age brackets, which allows for more robust and concentrated analysis. I also created separate columns for year and month to make it easier to explore trends over time.
 
 <p align="center">
-  <img src="images/image_4_new_columns.jpg" width=400/>
+  <img src="images/image_4_new_columns.jpg" width=800/>
 </p>
 
 These changes enhanced the analytical resolution of the dataset, making it ready for pivot table manipulation, KPI analysis, and executive summaries.
