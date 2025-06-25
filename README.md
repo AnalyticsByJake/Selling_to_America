@@ -5,13 +5,13 @@ Flip on the news and you’ll likely hear talk of China challenging America’s 
 
 
 <p align="center">
-  <img src="images/image_1_cyber_retail.jpg" width=300/>
+  <img src="images/image_1_cyber_retail.jpg" width=500/>
 </p>
 
 Using this simulated dataset, I combed through every detail to deliver a fine-tuned analysis of the US online retail market for online retailing, just like one would when handling real-world data. From raw CSVs to clean dashboards, I used Excel end-to-end — performing data cleaning, feature creation, analytical breakdowns, and final dashboard visualizations. This project demonstrates that with the right structure and logic, Excel can go toe-to-toe with even heavyweight BI tools for mid-sized datasets.
 
 <p align="center">
-  <img src="images/image_2_ct_pay_method.jpg", width=700/>
+  <img src="images/image_2_ct_pay_method.jpg", width=600/>
 </p>
 
 The data for this project was obtained from [this Kaggle dataset](https://www.kaggle.com/datasets/ytgangster/online-sales-in-usa) and then cleaned, organized, analyzed and visualized.
