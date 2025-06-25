@@ -31,7 +31,7 @@ VIII. Contact Details
 
 ## I. Included Files
 
-    • US Sales Dataset - Original (online_us_sales_dataset_OG.csv)
+    • US Sales Dataset - Cleaned (online_us_sales_dataset_cleaned.csv)
     	├── KPI Metrics
 	├── Sales Performance DB
 	├── Customer Demographics DB
@@ -42,7 +42,7 @@ VIII. Contact Details
 	├── Append-C (see Analysis Q. 12)
 	├── Append-D (see Analysis Q. 22)
 	├── Calculations (of tables and charts used in dashboards)
-    • US Sales Dataset - Cleaned (online_us_sales_dataset_cleaned.xlsx)
+    • US Sales Dataset - Original (online_us_sales_dataset_OG.xlsx)
 
 
 ## II. Included Datasets
