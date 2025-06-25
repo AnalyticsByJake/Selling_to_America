@@ -3,7 +3,6 @@
 
 Flip on the news and you’ll likely hear talk of China challenging America’s economic crown. But for now, the U.S. remains the heavyweight champion of global consumer spending — and this project dives into the numbers behind that title. Using Excel as my analytical scalpel, I dissected a simulated US online retail dataset to unearth the trends, behaviors, and metrics that power e-commerce.
 
-
 <p align="center">
   <img src="images/image_1_cyber_retail.jpg" width=600/>
 </p>
@@ -19,35 +18,35 @@ The data for this project was obtained from [this Kaggle dataset](https://www.ka
 
 ## Table of Contents
 
-I. Included Files \
-II. Included Datasets \
-III. A Cleaned and Enhanced Dataset \
-IV. Data at the Click of a Mouse\
-V. Dashboards: Sales and Demographics \
-VI. Tools Used \
-VII. Conclusion \
-VIII. Contact Details
+- [I. Included Files](#i-included-files)
+- [II. Included Datasets](#ii-included-datasets)
+- [III. A Cleaned and Enhanced Dataset](#iii-a-cleaned-and-enhanced-dataset)
+- [IV. Data at the Click of a Mouse](#iv-data-at-the-click-of-a-mouse)
+- [V. Dashboards: Sales and Demographics](#v-dashboards-sales-and-demographics)
+- [VI. Tools Used](#vi-tools-used)
+- [VII. Conclusion](#vii-conclusion)
+- [VIII. Contact Info](#viii-contact-info)
 
 
 ## I. Included Files
 
-    • US Sales Dataset - Cleaned (online_us_sales_dataset_cleaned.xlsx)
-    	├── KPI Metrics
-	├── Sales Performance DB
-	├── Customer Demographics DB
-	├── online_us_sales_dataset (cleaned)
-	├── Analysis
-	├── Append-A (see Analysis Q. 8)
-	├── Append-B (see Analysis Q. 10)
-	├── Append-C (see Analysis Q. 12)
-	├── Append-D (see Analysis Q. 22)
-	├── Calculations (of tables and charts used in dashboards)
-    • US Sales Dataset - Original (online_us_sales_dataset_OG.csv)
+- US Sales Dataset - Cleaned (online_us_sales_dataset_cleaned.xlsx)
+     - KPI Metrics
+     - Sales Performance DB
+     - Customer Demographics DB
+     - online_us_sales_dataset (cleaned)
+     - Analysis
+     - Append-A (see Analysis Q. 8)
+     - Append-B (see Analysis Q. 10)
+     - Append-C (see Analysis Q. 12)
+     - Append-D (see Analysis Q. 22)
+     - Calculations (of tables and charts used in dashboards)
+- US Sales Dataset - Original (online_us_sales_dataset_OG.csv)
 
 
 ## II. Included Datasets
 
-    • online_us_sales_dataset_cleaned.xlsx
+- online_us_sales_dataset_cleaned.xlsx
 
 The dataset is available in its cleaned as well as original form. 
 
@@ -79,11 +78,11 @@ Once cleaned, it was time to listen to what the data was telling us. Taking adva
 
 The main areas of concern are listed as follows:
 
-    • 🔵 Sales Trends and Insights 
-    • 🟠 Discounts and Pricing Insights  
-    • 🟣 Customer and Demographic Insights  
-    • 🟢 Order and Operational Insights 
-    • 🟡 Geographic and Regional Insights  
+- 🔵 Sales Trends and Insights
+- 🟠 Discounts and Pricing Insights
+- 🟣 Customer and Demographic Insights
+- 🟢 Order and Operational Insights
+- 🟡 Geographic and Regional Insights  
 
 Each section is designed for stakeholders who want fast, contextual answers — not endless spreadsheets. Every analysis question targets a better understanding of the US e-commerce marketplace represented in the dataset. Of course, some limitations were inevitable — like the near-uniformity in gendered sales — but overall, the insights were clear and practical. However, in general, useful information was able to be extracted and presented to the viewer in a clean and tidy format, making sure my stakeholders are spending their time on their jobs and not on deciphering the results. 
 
@@ -121,7 +120,7 @@ These dashboards pair insight with accessibility — ideal for marketing teams, 
 
 ## VI. Tools Used
 
-• Excel 
+- Excel 
 
 
 ## Conclusion
