@@ -7,13 +7,13 @@ Flip on the news and you’ll likely hear talk of China challenging America’s 
   <img src="images/image_1_cyber_retail.jpg" width=600/>
 </p>
 
-Using this simulated dataset, I combed through every detail to deliver a fine-tuned analysis of the US online retail market for online retailing, just like one would when handling real-world data. From raw CSVs to clean dashboards, I used Excel end-to-end — performing data cleaning, feature creation, analytical breakdowns, and final dashboard visualizations. This project demonstrates that with the right structure and logic, Excel can go toe-to-toe with even heavyweight BI tools for mid-sized datasets.
+Using a simulated dataset, I combed through every detail to deliver a fine-tuned analysis of the US online retail market for online retailing, just like one would when handling real-world data. From raw CSVs to clean dashboards, I used Excel end-to-end — performing data cleaning, feature creation, analytical breakdowns, and final dashboard visualizations. This project demonstrates that with the right structure and logic, Excel can go toe-to-toe with even heavyweight BI tools for mid-sized datasets.
 
 <p align="center">
   <img src="images/image_2_ct_pay_method.jpg", width=800/>
 </p>
 
-The data for this project was obtained from [this Kaggle dataset](https://www.kaggle.com/datasets/ytgangster/online-sales-in-usa) and then cleaned, organized, analyzed and visualized.
+The data for this project was obtained from [this Kaggle dataset](https://www.kaggle.com/datasets/ytgangster/online-sales-in-usa) and then cleaned, organized, analyzed and visualized. Please note that I had great difficulty uploading some of the files, and ultimately I have linked to a [Google Drive](https://drive.google.com/drive/folders/1FBdKn3uZx8Pd8-buH1F40iTSm6282SeS?usp=sharing); at least one of the files is solely available there. 
 
 
 ## Table of Contents
@@ -30,30 +30,32 @@ The data for this project was obtained from [this Kaggle dataset](https://www.ka
 
 ## I. Included Files
 
-- US Sales Dataset - Cleaned (online_us_sales_dataset_cleaned.xlsx)
+- US Sales Dataset - Dashboard and KPIs (online_us_sales_dash_plus_kpi.xlsx)
      - KPI Metrics
      - Sales Performance DB
      - Customer Demographics DB
-     - online_us_sales_dataset (cleaned)
+     - Calculations (of tables and charts used in dashboards)
+- US Sales Dataset - Analysis (see [Google Drive](https://drive.google.com/drive/folders/1FBdKn3uZx8Pd8-buH1F40iTSm6282SeS?usp=sharing))
      - Analysis
      - Append-A (see Analysis Q. 8)
      - Append-B (see Analysis Q. 10)
      - Append-C (see Analysis Q. 12)
      - Append-D (see Analysis Q. 22)
-     - Calculations (of tables and charts used in dashboards)
 - US Sales Dataset - Original (online_us_sales_dataset_OG.csv)
+- US Sales Dataset - Cleaned (online_us_sales_dataset_cleaned.csv.zip)
 
 
 ## II. Included Datasets
 
-- online_us_sales_dataset_cleaned.xlsx
+- online_us_sales_dataset_cleaned.csv.zip
+- online_us_sales_dataset_OG.csv
 
 The dataset is available in its cleaned as well as original form. 
 
 
 ## III. A Cleaned and Enhanced Dataset
 
-The file online_us_sales_dataset_cleaned.xlsx is available for download and includes not only the analytics but also the revised dataset. Along with this, one can view the original .csv file that was used as the source. Throughout this project, I employed Excel for all cleaning, analytics and visualizations.
+The file online_us_sales_dash_plus_kpi.xlsx is available for download and includes only the dashboards and KPI Metrics table. THe analysis, inclusive of BI questions and visualizations, is available via the Google Drive linked above. Along with this, one can view the original CSV file that was used as the source. Throughout this project, I employed Excel for all cleaning, analytics and visualizations.
 
 <p align="center">
   <img src="images/image_3_data_at_glance.jpg" width=900/>
@@ -65,7 +67,7 @@ While much of the data was already in place in terms of infrastructure, it was n
   <img src="images/image_4_new_columns.jpg" width=800/>
 </p>
 
-These changes enhanced the analytical resolution of the dataset, making it ready for pivot table manipulation, KPI analysis, and executive summaries.
+These changes enhanced the analytical resolution of the dataset, making it ready for pivot table manipulation, KPI assessments, and executive summaries.
 
 
 ## IV. Data at the Click of a Mouse
