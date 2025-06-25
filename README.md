@@ -74,7 +74,7 @@ These changes enhanced the analytical resolution of the dataset, making it ready
 Once cleaned, it was time to listen to what the data was telling us. Taking advantage of the immense array of features, functions and formatting tools Excel had to offer, the project addresses key business-related inquiries necessary for making practical and beneficial decisions. These assessments can be found under the "Analysis" worksheet, and is color-coded for easier navigation (see below). For instance, below is an initial breakdown of average order value by demographics.
 
 <p align="center">
-  <img src="images/image_5_anal_demographics.jpg" width=400/>
+  <img src="images/image_5_anal_demographics.jpg" width=600/>
 </p>
 
 The main areas of concern are listed as follows:
@@ -88,7 +88,7 @@ The main areas of concern are listed as follows:
 Each section is designed for stakeholders who want fast, contextual answers — not endless spreadsheets. Every analysis question targets a better understanding of the US e-commerce marketplace represented in the dataset. Of course, some limitations were inevitable — like the near-uniformity in gendered sales — but overall, the insights were clear and practical. However, in general, useful information was able to be extracted and presented to the viewer in a clean and tidy format, making sure my stakeholders are spending their time on their jobs and not on deciphering the results. 
 
 <p align="center">
-  <img src="images/image_6_state_breakdown.jpg"/>
+  <img src="images/image_6_state_breakdown.jpg" width=400/>
 </p>
 
 The eventual findings of my analysis were condensed and formatted into a KPI Metrics table that I envisioned could serve as a handout, especially one that would allow the audience to follow along when covering the dashboards. A portion of this table is visible below, and the full version is visible in the Excel file. In the table, I've included the main findings and sections on the performance of sales, customers, categories and geolocations. This required extensive use of pivot tables, calculated fields, nested formulas and aggregations. 
