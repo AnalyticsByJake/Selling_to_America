@@ -57,7 +57,7 @@ The dataset is available in its cleaned as well as original form.
 The file online_us_sales_dataset_cleaned.xlsx is available for download and includes not only the analytics but also the revised dataset. Along with this, one can view the original .csv file that was used as the source. Throughout this project, I employed Excel for all cleaning, analytics and visualizations.
 
 <p align="center">
-  <img src="images/image_3_data_at_glance.jpg" width=800/>
+  <img src="images/image_3_data_at_glance.jpg" width=900/>
 </p>
 
 While much of the data was already in place in terms of infrastructure, it was nonetheless necessary to make certain adjustments, refinements and modifications. To accomplish this, a variety of Excel functions were employed to make sure the data was standardized, accurate and usable. For instance, the discount percentage column had the number of decimal places reduced, dates were standardized, and currency columns reformatted to properly reflect monetary values. Along with this, I created a column to put customers into age brackets, which allows for more robust and concentrated analysis. I also created separate columns for year and month to make it easier to explore trends over time.
@@ -88,13 +88,13 @@ The main areas of concern are listed as follows:
 Each section is designed for stakeholders who want fast, contextual answers — not endless spreadsheets. Every analysis question targets a better understanding of the US e-commerce marketplace represented in the dataset. Of course, some limitations were inevitable — like the near-uniformity in gendered sales — but overall, the insights were clear and practical. However, in general, useful information was able to be extracted and presented to the viewer in a clean and tidy format, making sure my stakeholders are spending their time on their jobs and not on deciphering the results. 
 
 <p align="center">
-  <img src="images/image_6_state_breakdown.jpg" width=400/>
+  <img src="images/image_6_state_breakdown.jpg" width=600/>
 </p>
 
 The eventual findings of my analysis were condensed and formatted into a KPI Metrics table that I envisioned could serve as a handout, especially one that would allow the audience to follow along when covering the dashboards. A portion of this table is visible below, and the full version is visible in the Excel file. In the table, I've included the main findings and sections on the performance of sales, customers, categories and geolocations. This required extensive use of pivot tables, calculated fields, nested formulas and aggregations. 
 
 <p align="center">
-  <img src="images/image_kpi_table.jpg"/>
+  <img src="images/image_7_kpi_table.jpg" width=700/>
 </p>
 
 The conclusions that were drawn from this analysis then guided the end goal: visualized dashboards. 
@@ -113,7 +113,7 @@ The first dashboard addresses "Sales Performance for Online US Customers" by est
 The second dashboard took the opportunity to hone in on another quintessential aspect of sales for any business: "Customer Demographics." For this dashboard, I focused on the characteristics, qualities and information the dataset provided to give a breakdown of the impact of a variety of demographics. Included are the number of customers by age bracket, states with the highest order value, overall proportion of payment methods and total sales for each category by gender. A portion of that dashboard can be seen below, with the full version available in the Excel file itself. 
 
 <p align="center">
-  <img src="images/image_9_dem_dash.jpg" width=700/>
+  <img src="images/image_9_dem_dash.jpg" width=400/>
 </p>
 
 These dashboards pair insight with accessibility — ideal for marketing teams, financial analysts, or anyone trying to decode e-commerce behavior with just a glance.
