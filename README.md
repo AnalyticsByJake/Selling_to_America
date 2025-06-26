@@ -96,7 +96,7 @@ Each section is designed for stakeholders who want fast, contextual answers — 
 The eventual findings of my analysis were condensed and formatted into a KPI Metrics table that I envisioned could serve as a handout, especially one that would allow the audience to follow along when covering the dashboards. A portion of this table is visible below, and the full version is visible in the Excel file. In the table, I've included the main findings and sections on the performance of sales, customers, categories and geolocations. This required extensive use of pivot tables, calculated fields, nested formulas and aggregations. 
 
 <p align="center">
-  <img src="images/image_7_kpi_table.jpg" width=700/>
+  <img src="images/image_7_kpi_table.jpg" width=600/>
 </p>
 
 The conclusions that were drawn from this analysis then guided the end goal: visualized dashboards. 
