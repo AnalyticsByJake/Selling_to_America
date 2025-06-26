@@ -1,6 +1,6 @@
-
-# Selling to America: Retail Insights with Excel's Full Power
-
+<h1 align="center" style="font-size: 2em;">
+Selling to America: Retail Insights with Excel's Full Power
+</h1
 Flip on the news and you’ll likely hear talk of China challenging America’s economic crown. But for now, the U.S. remains the heavyweight champion of global consumer spending — and this project dives into the numbers behind that title. Using Excel as my analytical scalpel, I dissected a simulated US online retail dataset to unearth the trends, behaviors, and metrics that power e-commerce.
 
 <p align="center">
