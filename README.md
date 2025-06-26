@@ -76,7 +76,7 @@ These changes enhanced the analytical resolution of the dataset, making it ready
 Once cleaned, it was time to listen to what the data was telling us. Taking advantage of the immense array of features, functions and formatting tools Excel had to offer, the project addresses key business-related inquiries necessary for making practical and beneficial decisions. These assessments can be found under the "Analysis" worksheet, and is color-coded for easier navigation (see below). For instance, below is an initial breakdown of average order value by demographics.
 
 <p align="center">
-  <img src="images/image_5_anal_demographics.jpg" width=600/>
+  <img src="images/image_5_anal_demographic.jpg" width=600/>
 </p>
 
 The main areas of concern are listed as follows:
