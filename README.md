@@ -137,9 +137,10 @@ The scope of this dataset, which included hundreds of thousands of rows and doze
 
 [Linkedin](www.linkedin.com/in/jacob-maze-8a4a0772)
 
-[Tableau Public](https://public.tableau.com/app/profile/analyticsbyjake)
+[Personal Website](https://analyticsbyjake.github.io/abj/)
 
 [GitHub](https://github.com/AnalyticsByJake)
 
-[Website](https://analyticsbyjake.github.io/abj/)
+[Tableau Public](https://public.tableau.com/app/profile/analyticsbyjake)
 
+[Academia.edu](https://aauni.academia.edu/JacobMaze)
